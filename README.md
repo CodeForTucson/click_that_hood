@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CodeForTucson/click_that_hood.png?label=ready&title=Ready)](https://waffle.io/CodeForTucson/click_that_hood)
 [![Build Status](https://travis-ci.org/codeforamerica/click_that_hood.png?branch=master)](click_that_hood)
 
 # Click That 'Hood
